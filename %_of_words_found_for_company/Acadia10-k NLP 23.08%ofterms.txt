@@ -1,0 +1,53 @@
+Heart exists: 0 times.
+Human exists: 3 times.
+Humanity exists: 0 times.
+Humane exists: 0 times.
+Feel exists: 1 times.
+Feeling exists: 0 times.
+Understand exists: 2 times.
+Understanding exists: 2 times.
+Compassionate exists: 0 times.
+Sympathetic exists: 0 times.
+Belong exists: 0 times.
+Belonging exists: 0 times.
+Person exists: 10 times.
+People exists: 2 times.
+Love exists: 0 times.
+Loving exists: 0 times.
+Community exists: 0 times.
+Communities exists: 0 times.
+Empathy exists: 0 times.
+Empath exists: 0 times.
+Empathetic exists: 0 times.
+Nurture exists: 0 times.
+Nurturing exists: 0 times.
+Culture exists: 0 times.
+Cultural exists: 0 times.
+Cultures exists: 0 times.
+Spirit exists: 2 times.
+Spiritual Engagement exists: 0 times.
+Emotional Engagement exists: 0 times.
+Mental Engagement exists: 0 times.
+Physical Engagement exists: 0 times.
+Inclusion exists: 0 times.
+Inclusive exists: 0 times.
+Diversity exists: 0 times.
+Diversify exists: 0 times.
+Equitable exists: 0 times.
+Equity exists: 0 times.
+Accessibility exists: 0 times.
+Sustainability exists: 0 times.
+Sustainability exists: 0 times.
+Collaboration exists: 0 times.
+Collaborative exists: 0 times.
+Environment exists: 1 times.
+Peer exists: 0 times.
+Peers exists: 0 times.
+Sensitive exists: 1 times.
+Sensitivity exists: 0 times.
+Care exists: 3 times.
+Caring exists: 0 times.
+Protect exists: 3 times.
+Protection exists: 1 times.
+Protecting exists: 0 times.
+Ratio of words found: 23.08%
